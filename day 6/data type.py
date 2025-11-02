@@ -1,0 +1,10 @@
+a="sss"
+b=70
+c=7.0
+d=[6,8,9]
+e=True
+print(a,type(a))
+print(b,type(b))
+print(c,type(c))
+print(d,type(d))
+print(e,type(e))
