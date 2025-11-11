@@ -1,0 +1,5 @@
+str=input("enter the value:")
+int=int(input("enter the value:"))
+boolen=bool(input("enter the value:"))
+tuple=(str,int,boolen)
+print(tuple)
