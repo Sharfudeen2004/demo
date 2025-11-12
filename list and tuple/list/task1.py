@@ -1,0 +1,2 @@
+l=['apple']
+print(l)
